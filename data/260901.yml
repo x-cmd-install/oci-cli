@@ -1,0 +1,58 @@
+about:
+  description: Command Line Interface for Oracle Cloud Infrastructure
+  license: NOASSERTION
+  homepage: https://cloud.oracle.com/cloud-infrastructure
+  head: fbff93a
+  archived: false
+  latestVersion: v3.91.0
+  collectedAt: 2026-09-01T05:17:04Z
+timeline:
+  created: 2016-11-04
+  lastCommit: 2026-08-25
+  lastRelease: 2026-08-25
+popularity:
+  star: 661
+  watcher: 81
+  fork: 235
+  release: 393
+  contributor: 1540
+  pullRequest: 115
+  issue: 526
+language:
+  Python: 58855653
+  Shell: 364226
+  PowerShell: 26587
+totalLine: 59246466
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 4
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 0
+    openIssue: 3
+    commit: 3
+  last90d:
+    since: 2026-06-03
+    release: 12
+    mergedPR: 12
+    openPR: 1
+    closedIssue: 0
+    openIssue: 14
+    commit: 12
+  last180d:
+    since: 2026-03-05
+    release: 25
+    mergedPR: 31
+    openPR: 5
+    closedIssue: 8
+    openIssue: 22
+    commit: 31
+  last360d:
+    since: 2025-09-06
+    release: 46
+    mergedPR: 56
+    openPR: 12
+    closedIssue: 17
+    openIssue: 34
+    commit: 55
