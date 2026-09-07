@@ -5,17 +5,17 @@ about:
   head: f921ce4
   archived: false
   latestVersion: "v3.92.0"
-  collectedAt: 2026-09-07T05:19:31Z
+  collectedAt: 2026-09-07T19:08:46Z
 timeline:
   created: 2016-11-04
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 664
+  star: 666
   watcher: 81
-  fork: 235
+  fork: 236
   release: 394
-  contributor: 1540
+  contributor: 1541
   pullRequest: 568
   issue: 526
 language:
@@ -81,7 +81,7 @@ total:
   commit: 895
 ---
 path: /home/runner/.x-repo/github.com/oracle/oci-cli
-collectedAt: 2026-09-07T05:19:43Z
+collectedAt: 2026-09-07T19:09:01Z
 loc:
   Python:
     code: 631356
@@ -147,7 +147,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:19:45+00:00
+  collectedAt: 2026-09-07T19:09:10+00:00
   platform:
     darwin/arm64:
       name:  null
