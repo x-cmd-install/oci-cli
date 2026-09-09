@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 185662080,
       "digest": "sha256:cb593aca9a9244645b085d79c55d44828b9acd0dc94904747e956b0bdc79db92",
-      "download_count": 2,
+      "download_count": 47,
       "created_at": "2026-09-08T10:18:30Z",
       "updated_at": "2026-09-08T10:18:37Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.92.1/oci-cli-3.92.1.zip"
