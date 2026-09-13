@@ -38,22 +38,22 @@ Total: **728,826** lines of code across **2750** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 668 · **Forks**: 236 · **Open issues**: 526 · **Contributors**: 1,546
+- **Stars**: 668 · **Forks**: 236 · **Open issues**: 527 · **Contributors**: 1,546
 
 ## Totals (cumulative)
 
-- **Releases**: 395 · **Merged PRs**: 454 · **Open PRs**: 24 · **Closed issues**: 356 · **Open issues**: 170 · **Commits**: 897
+- **Releases**: 395 · **Merged PRs**: 454 · **Open PRs**: 24 · **Closed issues**: 356 · **Open issues**: 171 · **Commits**: 897
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 4 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-14 | 9 | 8 | 0 | 0 | 9 | 8 |
-| 90d | 2026-06-14 | 13 | 13 | 1 | 0 | 12 | 13 |
-| last180d | 2026-03-16 | 26 | 32 | 5 | 8 | 21 | 32 |
-| 360d | 2025-09-17 | 46 | 56 | 11 | 17 | 32 | 56 |
-| last720d | 2024-09-22 | 95 | 110 | 18 | 49 | 70 | 220 |
+| 30d | 2026-08-14 | 4 | 4 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-15 | 8 | 8 | 0 | 0 | 10 | 7 |
+| 90d | 2026-06-15 | 13 | 13 | 1 | 0 | 13 | 12 |
+| last180d | 2026-03-17 | 26 | 32 | 4 | 8 | 22 | 31 |
+| 360d | 2025-09-18 | 46 | 56 | 11 | 17 | 33 | 55 |
+| last720d | 2024-09-23 | 95 | 110 | 18 | 49 | 71 | 220 |
 
 ## Release assets
 
@@ -71,11 +71,11 @@ Total: **728,826** lines of code across **2750** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/oci-cli). **4** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **5** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `3.92.1` | ✅ latest |
 | Fedora rawhide | `3.92.1` | ✅ latest |
 | Nix unstable | `3.92.0` | ⚠️ outdated |
 | Alpine edge | `3.90.0` | ⚠️ outdated |
@@ -90,4 +90,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:33:49Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:38:48Z._
