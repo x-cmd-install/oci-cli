@@ -48,12 +48,12 @@ Total: **730,786** lines of code across **2745** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 4 | 4 | 0 | 0 | 2 | 3 |
-| last60d | 2026-07-29 | 8 | 8 | 0 | 0 | 5 | 7 |
-| 90d | 2026-06-29 | 13 | 13 | 1 | 0 | 14 | 12 |
-| last180d | 2026-03-31 | 26 | 30 | 4 | 4 | 21 | 31 |
-| 360d | 2025-10-02 | 46 | 56 | 11 | 17 | 33 | 55 |
-| last720d | 2024-10-07 | 95 | 110 | 18 | 45 | 71 | 220 |
+| 30d | 2026-08-29 | 4 | 4 | 0 | 0 | 2 | 3 |
+| last60d | 2026-07-30 | 8 | 8 | 0 | 0 | 5 | 7 |
+| 90d | 2026-06-30 | 13 | 12 | 1 | 0 | 13 | 12 |
+| last180d | 2026-04-01 | 25 | 30 | 4 | 4 | 20 | 31 |
+| 360d | 2025-10-03 | 46 | 56 | 11 | 17 | 33 | 55 |
+| last720d | 2024-10-08 | 95 | 108 | 18 | 45 | 71 | 220 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:55:09Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:09:53Z._
