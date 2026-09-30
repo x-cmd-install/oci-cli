@@ -1,0 +1,152 @@
+about:
+  description: "Command Line Interface for Oracle Cloud Infrastructure"
+  license: NOASSERTION
+  homepage: https://cloud.oracle.com/cloud-infrastructure
+  head: ac81b1e
+  archived: false
+  latestVersion: "v3.94.1"
+  latestRelease: "v3.94.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-30T06:19:21Z
+timeline:
+  created: 2016-11-04
+  lastCommit: 2026-09-29
+  lastVersion: 2026-09-29
+  lastRelease: 2026-09-29
+  lastPrerelease: 
+popularity:
+  star: 671
+  watcher: 81
+  fork: 236
+  release: 398
+  contributor: 1502
+  pullRequest: 572
+  issue: 528
+language:
+  Python: 59252580
+  Shell: 364516
+  PowerShell: 26587
+totalBytes: 59643683
+recent:
+  last30d:
+    since: 2026-08-31
+    release: 5
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 4
+  last60d:
+    since: 2026-08-01
+    release: 9
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 0
+    openIssue: 5
+    commit: 8
+  last90d:
+    since: 2026-07-02
+    release: 13
+    mergedPR: 13
+    openPR: 1
+    closedIssue: 0
+    openIssue: 12
+    commit: 13
+  last180d:
+    since: 2026-04-03
+    release: 26
+    mergedPR: 31
+    openPR: 4
+    closedIssue: 4
+    openIssue: 20
+    commit: 32
+  last360d:
+    since: 2025-10-05
+    release: 47
+    mergedPR: 57
+    openPR: 11
+    closedIssue: 17
+    openIssue: 33
+    commit: 56
+  last720d:
+    since: 2024-10-10
+    release: 95
+    mergedPR: 108
+    openPR: 18
+    closedIssue: 44
+    openIssue: 71
+    commit: 218
+total:
+  release: 398
+  mergedPR: 457
+  openPR: 24
+  closedIssue: 356
+  openIssue: 172
+  commit: 903
+---
+path: /home/runner/.x-repo/github.com/oracle/oci-cli
+collectedAt: 2026-09-30T06:19:39Z
+loc:
+  Python:
+    code: 638882
+    comments: 23320
+    blanks: 116330
+    files: 2561
+  Yaml:
+    code: 77682
+    comments: 0
+    blanks: 0
+    files: 35
+  ReStructuredText:
+    code: 13279
+    comments: 0
+    blanks: 6719
+    files: 5
+  Sh:
+    code: 4330
+    comments: 2393
+    blanks: 1354
+    files: 87
+  Json:
+    code: 1224
+    comments: 0
+    blanks: 10
+    files: 57
+  PowerShell:
+    code: 480
+    comments: 74
+    blanks: 58
+    files: 2
+  Ini:
+    code: 33
+    comments: 3
+    blanks: 5
+    files: 1
+  ForgeConfig:
+    code: 15
+    comments: 0
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 359
+    blanks: 105
+    files: 4
+  Text:
+    code: 0
+    comments: 5112
+    blanks: 803
+    files: 10
+total:
+  code: 735935
+  comments: 31261
+  blanks: 125386
+  files: 2764
+---
+
+---
