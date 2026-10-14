@@ -14,13 +14,13 @@ x install oci-cli
 
 ## Code insight
 
-Total: **736,913** lines of code across **2765** files in the top 5 languages.
+Total: **738,668** lines of code across **2780** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 639,843 | 23,412 | 116,512 | 2581 |
+| Python | 641,514 | 23,490 | 116,824 | 2596 |
 | Yaml | 77,682 | 0 | 0 | 35 |
-| ReStructuredText | 13,296 | 0 | 6,730 | 5 |
+| ReStructuredText | 13,380 | 0 | 6,760 | 5 |
 | Sh | 4,330 | 2,393 | 1,354 | 87 |
 | Json | 1,224 | 0 | 10 | 57 |
 
@@ -32,41 +32,34 @@ Total: **736,913** lines of code across **2765** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.94.2` (2026-10-06)
-- **Last commit**: 2026-10-06
-- **Assets in release**: 8
+- **Latest**: `v3.95.0` (2026-10-13)
+- **Last commit**: 2026-10-13
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 673 · **Forks**: 236 · **Open issues**: 528 · **Contributors**: 1,505
+- **Stars**: 673 · **Forks**: 236 · **Open issues**: 528 · **Contributors**: 1,507
 
 ## Totals (cumulative)
 
-- **Releases**: 399 · **Merged PRs**: 458 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 171 · **Commits**: 905
+- **Releases**: 400 · **Merged PRs**: 459 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 171 · **Commits**: 907
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 4 | 4 | 0 | 0 | 1 | 3 |
-| last60d | 2026-08-14 | 8 | 8 | 0 | 1 | 1 | 7 |
-| 90d | 2026-07-15 | 12 | 12 | 0 | 1 | 10 | 12 |
-| last180d | 2026-04-16 | 25 | 28 | 3 | 4 | 17 | 29 |
-| 360d | 2025-10-18 | 47 | 57 | 10 | 18 | 31 | 56 |
-| last720d | 2024-10-23 | 93 | 107 | 18 | 45 | 69 | 214 |
+| 30d | 2026-09-14 | 5 | 5 | 0 | 0 | 1 | 4 |
+| last60d | 2026-08-15 | 9 | 9 | 0 | 1 | 1 | 8 |
+| 90d | 2026-07-16 | 13 | 13 | 0 | 1 | 10 | 13 |
+| last180d | 2026-04-17 | 26 | 29 | 3 | 3 | 17 | 30 |
+| 360d | 2025-10-19 | 48 | 58 | 10 | 18 | 31 | 57 |
+| last720d | 2024-10-24 | 94 | 108 | 18 | 43 | 69 | 216 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oci-cli-3.94.2-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Oracle-Linux-10-Offline.zip) | 101.8 MiB | `other` |
-| [oci-cli-3.94.2-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Oracle-Linux-9-Offline.zip) | 101.8 MiB | `other` |
-| [oci-cli-3.94.2-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Ubuntu-20.04-Offline.zip) | 93.5 MiB | `other` |
-| [oci-cli-3.94.2-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Ubuntu-22.04-Offline.zip) | 93.5 MiB | `other` |
-| [oci-cli-3.94.2-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Windows-Server-2016-Offline.zip) | 75.4 MiB | `native/win/x64` |
-| [oci-cli-3.94.2-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Windows-Server-2019-Offline.zip) | 75.4 MiB | `native/win/x64` |
-| [oci-cli-3.94.2-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2-Windows-Server-Installer.msi) | 38.1 MiB | `native/win/x64` |
-| [oci-cli-3.94.2.zip](https://github.com/oracle/oci-cli/releases/download/v3.94.2/oci-cli-3.94.2.zip) | 179.4 MiB | `other` |
+| [oci-cli-3.95.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0.zip) | 180.2 MiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +70,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:36:54Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:37:59Z._
