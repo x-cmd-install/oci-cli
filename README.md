@@ -34,31 +34,39 @@ Total: **738,668** lines of code across **2780** files in the top 5 languages.
 
 - **Latest**: `v3.95.0` (2026-10-13)
 - **Last commit**: 2026-10-13
-- **Assets in release**: 1
+- **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 673 · **Forks**: 236 · **Open issues**: 528 · **Contributors**: 1,507
+- **Stars**: 673 · **Forks**: 236 · **Open issues**: 530 · **Contributors**: 1,503
 
 ## Totals (cumulative)
 
-- **Releases**: 400 · **Merged PRs**: 459 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 171 · **Commits**: 907
+- **Releases**: 400 · **Merged PRs**: 459 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 173 · **Commits**: 907
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 5 | 5 | 0 | 0 | 1 | 4 |
-| last60d | 2026-08-15 | 9 | 9 | 0 | 1 | 1 | 8 |
-| 90d | 2026-07-16 | 13 | 13 | 0 | 1 | 10 | 13 |
-| last180d | 2026-04-17 | 26 | 29 | 3 | 3 | 17 | 30 |
-| 360d | 2025-10-19 | 48 | 58 | 10 | 18 | 31 | 57 |
-| last720d | 2024-10-24 | 94 | 108 | 18 | 43 | 69 | 216 |
+| 30d | 2026-09-15 | 5 | 4 | 0 | 0 | 3 | 4 |
+| last60d | 2026-08-16 | 9 | 9 | 0 | 1 | 3 | 8 |
+| 90d | 2026-07-17 | 13 | 13 | 0 | 1 | 12 | 13 |
+| last180d | 2026-04-18 | 26 | 29 | 3 | 3 | 19 | 30 |
+| 360d | 2025-10-20 | 48 | 58 | 10 | 18 | 33 | 57 |
+| last720d | 2024-10-25 | 94 | 108 | 18 | 43 | 71 | 216 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
+| [oci-cli-3.95.0-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-10-Offline.zip) | 102.6 MiB | `other` |
+| [oci-cli-3.95.0-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-8-Offline.zip) | 112.7 MiB | `other` |
+| [oci-cli-3.95.0-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-9-Offline.zip) | 102.6 MiB | `other` |
+| [oci-cli-3.95.0-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Ubuntu-20.04-Offline.zip) | 94.2 MiB | `other` |
+| [oci-cli-3.95.0-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Ubuntu-22.04-Offline.zip) | 94.2 MiB | `other` |
+| [oci-cli-3.95.0-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-2016-Offline.zip) | 75.7 MiB | `native/win/x64` |
+| [oci-cli-3.95.0-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-2019-Offline.zip) | 75.7 MiB | `native/win/x64` |
+| [oci-cli-3.95.0-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-Installer.msi) | 38.1 MiB | `native/win/x64` |
 | [oci-cli-3.95.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0.zip) | 180.2 MiB | `other` |
 
 ## Improve this data
@@ -70,4 +78,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:37:59Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:20:11Z._

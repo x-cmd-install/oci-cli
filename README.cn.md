@@ -34,31 +34,39 @@ x install oci-cli
 
 - **最新版本**: `v3.95.0` (2026-10-13)
 - **最近提交**: 2026-10-13
-- **Release 含资产**: 1 个
+- **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 673 · **Fork**: 236 · **开放 issue**: 528 · **贡献者**: 1,507
+- **Star**: 673 · **Fork**: 236 · **开放 issue**: 530 · **贡献者**: 1,503
 
 ## 累计统计
 
-- **发布数**: 400 · **已合并 PR**: 459 · **开放 PR**: 24 · **已关闭 issue**: 357 · **开放 issue**: 171 · **提交数**: 907
+- **发布数**: 400 · **已合并 PR**: 459 · **开放 PR**: 24 · **已关闭 issue**: 357 · **开放 issue**: 173 · **提交数**: 907
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 5 | 5 | 0 | 0 | 1 | 4 |
-| last60d | 2026-08-15 | 9 | 9 | 0 | 1 | 1 | 8 |
-| 90d | 2026-07-16 | 13 | 13 | 0 | 1 | 10 | 13 |
-| last180d | 2026-04-17 | 26 | 29 | 3 | 3 | 17 | 30 |
-| 360d | 2025-10-19 | 48 | 58 | 10 | 18 | 31 | 57 |
-| last720d | 2024-10-24 | 94 | 108 | 18 | 43 | 69 | 216 |
+| 30d | 2026-09-15 | 5 | 4 | 0 | 0 | 3 | 4 |
+| last60d | 2026-08-16 | 9 | 9 | 0 | 1 | 3 | 8 |
+| 90d | 2026-07-17 | 13 | 13 | 0 | 1 | 12 | 13 |
+| last180d | 2026-04-18 | 26 | 29 | 3 | 3 | 19 | 30 |
+| 360d | 2025-10-20 | 48 | 58 | 10 | 18 | 33 | 57 |
+| last720d | 2024-10-25 | 94 | 108 | 18 | 43 | 71 | 216 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [oci-cli-3.95.0-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-10-Offline.zip) | 102.6 MiB | `other` |
+| [oci-cli-3.95.0-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-8-Offline.zip) | 112.7 MiB | `other` |
+| [oci-cli-3.95.0-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-9-Offline.zip) | 102.6 MiB | `other` |
+| [oci-cli-3.95.0-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Ubuntu-20.04-Offline.zip) | 94.2 MiB | `other` |
+| [oci-cli-3.95.0-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Ubuntu-22.04-Offline.zip) | 94.2 MiB | `other` |
+| [oci-cli-3.95.0-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-2016-Offline.zip) | 75.7 MiB | `native/win/x64` |
+| [oci-cli-3.95.0-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-2019-Offline.zip) | 75.7 MiB | `native/win/x64` |
+| [oci-cli-3.95.0-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-Installer.msi) | 38.1 MiB | `native/win/x64` |
 | [oci-cli-3.95.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0.zip) | 180.2 MiB | `other` |
 
 ## 改进这些数据
@@ -70,4 +78,4 @@ oci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:38:00Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:20:11Z._
