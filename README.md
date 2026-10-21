@@ -14,13 +14,13 @@ x install oci-cli
 
 ## Code insight
 
-Total: **738,668** lines of code across **2780** files in the top 5 languages.
+Total: **742,538** lines of code across **2798** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 641,514 | 23,490 | 116,824 | 2596 |
+| Python | 645,285 | 23,633 | 117,532 | 2614 |
 | Yaml | 77,682 | 0 | 0 | 35 |
-| ReStructuredText | 13,380 | 0 | 6,760 | 5 |
+| ReStructuredText | 13,479 | 0 | 6,814 | 5 |
 | Sh | 4,330 | 2,393 | 1,354 | 87 |
 | Json | 1,224 | 0 | 10 | 57 |
 
@@ -32,42 +32,34 @@ Total: **738,668** lines of code across **2780** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.95.0` (2026-10-13)
-- **Last commit**: 2026-10-13
-- **Assets in release**: 9
+- **Latest**: `v3.95.1` (2026-10-20)
+- **Last commit**: 2026-10-20
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 677 · **Forks**: 236 · **Open issues**: 530 · **Contributors**: 1,502
+- **Stars**: 678 · **Forks**: 235 · **Open issues**: 530 · **Contributors**: 1,502
 
 ## Totals (cumulative)
 
-- **Releases**: 400 · **Merged PRs**: 459 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 173 · **Commits**: 907
+- **Releases**: 401 · **Merged PRs**: 460 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 173 · **Commits**: 909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 4 | 0 | 0 | 2 | 3 |
-| last60d | 2026-08-21 | 8 | 8 | 0 | 1 | 3 | 7 |
-| 90d | 2026-07-22 | 12 | 12 | 0 | 1 | 6 | 12 |
-| last180d | 2026-04-23 | 25 | 25 | 3 | 3 | 19 | 26 |
-| 360d | 2025-10-25 | 47 | 57 | 10 | 17 | 33 | 56 |
-| last720d | 2024-10-30 | 93 | 107 | 18 | 42 | 71 | 214 |
+| 30d | 2026-09-21 | 5 | 5 | 0 | 0 | 2 | 4 |
+| last60d | 2026-08-22 | 9 | 9 | 0 | 1 | 3 | 8 |
+| 90d | 2026-07-23 | 13 | 13 | 0 | 1 | 6 | 13 |
+| last180d | 2026-04-24 | 26 | 26 | 3 | 3 | 19 | 27 |
+| 360d | 2025-10-26 | 48 | 58 | 10 | 17 | 33 | 57 |
+| last720d | 2024-10-31 | 94 | 108 | 18 | 42 | 71 | 216 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oci-cli-3.95.0-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-10-Offline.zip) | 102.6 MiB | `other` |
-| [oci-cli-3.95.0-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-8-Offline.zip) | 112.7 MiB | `other` |
-| [oci-cli-3.95.0-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Oracle-Linux-9-Offline.zip) | 102.6 MiB | `other` |
-| [oci-cli-3.95.0-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Ubuntu-20.04-Offline.zip) | 94.2 MiB | `other` |
-| [oci-cli-3.95.0-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Ubuntu-22.04-Offline.zip) | 94.2 MiB | `other` |
-| [oci-cli-3.95.0-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-2016-Offline.zip) | 75.7 MiB | `native/win/x64` |
-| [oci-cli-3.95.0-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-2019-Offline.zip) | 75.7 MiB | `native/win/x64` |
-| [oci-cli-3.95.0-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0-Windows-Server-Installer.msi) | 38.1 MiB | `native/win/x64` |
-| [oci-cli-3.95.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.0/oci-cli-3.95.0.zip) | 180.2 MiB | `other` |
+| [oci-cli-3.95.1.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1.zip) | 181.9 MiB | `other` |
 
 ## Improve this data
 
@@ -78,4 +70,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:27:10Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:29:46Z._
