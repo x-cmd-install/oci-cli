@@ -38,22 +38,22 @@ Total: **742,538** lines of code across **2798** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 679 · **Forks**: 235 · **Open issues**: 530 · **Contributors**: 1,501
+- **Stars**: 679 · **Forks**: 235 · **Open issues**: 531 · **Contributors**: 1,501
 
 ## Totals (cumulative)
 
-- **Releases**: 401 · **Merged PRs**: 460 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 173 · **Commits**: 909
+- **Releases**: 401 · **Merged PRs**: 460 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 174 · **Commits**: 909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 4 | 0 | 0 | 2 | 4 |
-| last60d | 2026-08-26 | 8 | 8 | 0 | 1 | 3 | 8 |
-| 90d | 2026-07-27 | 13 | 13 | 0 | 1 | 6 | 13 |
-| last180d | 2026-04-28 | 26 | 25 | 3 | 3 | 19 | 27 |
-| 360d | 2025-10-30 | 47 | 57 | 10 | 17 | 33 | 57 |
-| last720d | 2024-11-04 | 94 | 108 | 18 | 42 | 70 | 216 |
+| 30d | 2026-09-26 | 4 | 4 | 0 | 0 | 3 | 3 |
+| last60d | 2026-08-27 | 8 | 8 | 0 | 1 | 4 | 7 |
+| 90d | 2026-07-28 | 13 | 12 | 0 | 1 | 7 | 12 |
+| last180d | 2026-04-29 | 25 | 25 | 3 | 2 | 20 | 26 |
+| 360d | 2025-10-31 | 47 | 57 | 10 | 17 | 34 | 56 |
+| last720d | 2024-11-05 | 94 | 107 | 18 | 42 | 71 | 216 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:19:36Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:20:39Z._
