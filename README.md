@@ -38,22 +38,22 @@ Total: **742,538** lines of code across **2798** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 681 · **Forks**: 235 · **Open issues**: 532 · **Contributors**: 1,497
+- **Stars**: 681 · **Forks**: 235 · **Open issues**: 532 · **Contributors**: 1,494
 
 ## Totals (cumulative)
 
-- **Releases**: 401 · **Merged PRs**: 460 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 175 · **Commits**: 909
+- **Releases**: 401 · **Merged PRs**: 460 · **Open PRs**: 25 · **Closed issues**: 357 · **Open issues**: 175 · **Commits**: 909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 3 | 0 | 0 | 4 | 3 |
-| last60d | 2026-09-01 | 8 | 7 | 0 | 1 | 5 | 7 |
-| 90d | 2026-08-02 | 12 | 12 | 0 | 1 | 8 | 12 |
-| last180d | 2026-05-04 | 25 | 25 | 3 | 2 | 21 | 26 |
-| 360d | 2025-11-05 | 46 | 56 | 10 | 17 | 35 | 56 |
-| last720d | 2024-11-10 | 93 | 107 | 18 | 41 | 71 | 214 |
+| 30d | 2026-10-02 | 3 | 3 | 1 | 0 | 4 | 3 |
+| last60d | 2026-09-02 | 7 | 7 | 1 | 1 | 5 | 7 |
+| 90d | 2026-08-03 | 12 | 12 | 1 | 1 | 8 | 12 |
+| last180d | 2026-05-05 | 25 | 24 | 4 | 1 | 21 | 26 |
+| 360d | 2025-11-06 | 46 | 56 | 11 | 17 | 35 | 56 |
+| last720d | 2024-11-11 | 93 | 107 | 19 | 41 | 71 | 214 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **742,538** lines of code across **2798** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **4** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **5** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:18:21Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:40:43Z._
