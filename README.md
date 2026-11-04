@@ -14,13 +14,13 @@ x install oci-cli
 
 ## Code insight
 
-Total: **742,538** lines of code across **2798** files in the top 5 languages.
+Total: **742,781** lines of code across **2799** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 645,285 | 23,633 | 117,532 | 2614 |
+| Python | 645,487 | 23,650 | 117,587 | 2615 |
 | Yaml | 77,682 | 0 | 0 | 35 |
-| ReStructuredText | 13,479 | 0 | 6,814 | 5 |
+| ReStructuredText | 13,520 | 0 | 6,844 | 5 |
 | Sh | 4,330 | 2,393 | 1,354 | 87 |
 | Json | 1,224 | 0 | 10 | 57 |
 
@@ -32,9 +32,9 @@ Total: **742,538** lines of code across **2798** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.95.1` (2026-10-20)
-- **Last commit**: 2026-10-20
-- **Assets in release**: 8
+- **Latest**: `v3.96.0` (2026-11-03)
+- **Last commit**: 2026-11-03
+- **Assets in release**: 1
 
 ## Popularity
 
@@ -42,41 +42,34 @@ Total: **742,538** lines of code across **2798** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 401 · **Merged PRs**: 460 · **Open PRs**: 25 · **Closed issues**: 358 · **Open issues**: 174 · **Commits**: 909
+- **Releases**: 402 · **Merged PRs**: 461 · **Open PRs**: 25 · **Closed issues**: 358 · **Open issues**: 174 · **Commits**: 911
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 3 | 1 | 0 | 4 | 2 |
-| last60d | 2026-09-04 | 7 | 7 | 1 | 1 | 5 | 6 |
-| 90d | 2026-08-05 | 11 | 11 | 1 | 1 | 7 | 11 |
-| last180d | 2026-05-07 | 24 | 24 | 4 | 1 | 21 | 25 |
-| 360d | 2025-11-08 | 46 | 56 | 11 | 16 | 35 | 55 |
-| last720d | 2024-11-13 | 92 | 106 | 19 | 40 | 69 | 212 |
+| 30d | 2026-10-05 | 4 | 4 | 1 | 0 | 4 | 3 |
+| last60d | 2026-09-05 | 8 | 8 | 1 | 1 | 5 | 7 |
+| 90d | 2026-08-06 | 12 | 12 | 1 | 1 | 7 | 12 |
+| last180d | 2026-05-08 | 25 | 25 | 4 | 1 | 21 | 26 |
+| 360d | 2025-11-09 | 47 | 57 | 11 | 16 | 35 | 56 |
+| last720d | 2024-11-14 | 93 | 107 | 19 | 40 | 69 | 214 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oci-cli-3.95.1-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Oracle-Linux-10-Offline.zip) | 103.1 MiB | `other` |
-| [oci-cli-3.95.1-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Oracle-Linux-8-Offline.zip) | 113.3 MiB | `other` |
-| [oci-cli-3.95.1-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Oracle-Linux-9-Offline.zip) | 103.1 MiB | `other` |
-| [oci-cli-3.95.1-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Ubuntu-20.04-Offline.zip) | 94.8 MiB | `other` |
-| [oci-cli-3.95.1-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Ubuntu-22.04-Offline.zip) | 94.8 MiB | `other` |
-| [oci-cli-3.95.1-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Windows-Server-2016-Offline.zip) | 76.2 MiB | `native/win/x64` |
-| [oci-cli-3.95.1-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Windows-Server-2019-Offline.zip) | 76.2 MiB | `native/win/x64` |
-| [oci-cli-3.95.1.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1.zip) | 181.9 MiB | `other` |
+| [oci-cli-3.96.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0.zip) | 182.0 MiB | `other` |
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **5** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **2** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.95.1` | ✅ latest |
+| Homebrew | `3.95.1` | ⚠️ outdated |
 | Fedora rawhide | `3.92.1` | ⚠️ outdated |
-| Nix unstable | `3.95.1` | ✅ latest |
+| Nix unstable | `3.95.1` | ⚠️ outdated |
 | Alpine edge | `3.90.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.83.0` | ⚠️ outdated |
 
@@ -89,4 +82,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:34:23Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:00:55Z._

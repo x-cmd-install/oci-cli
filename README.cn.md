@@ -14,13 +14,13 @@ x install oci-cli
 
 ## 代码洞察
 
-合计: **742,538** 行代码（覆盖前 5 种语言、共 **2798** 个文件）。
+合计: **742,781** 行代码（覆盖前 5 种语言、共 **2799** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 645,285 | 23,633 | 117,532 | 2614 |
+| Python | 645,487 | 23,650 | 117,587 | 2615 |
 | Yaml | 77,682 | 0 | 0 | 35 |
-| ReStructuredText | 13,479 | 0 | 6,814 | 5 |
+| ReStructuredText | 13,520 | 0 | 6,844 | 5 |
 | Sh | 4,330 | 2,393 | 1,354 | 87 |
 | Json | 1,224 | 0 | 10 | 57 |
 
@@ -32,9 +32,9 @@ x install oci-cli
 
 ## 发布
 
-- **最新版本**: `v3.95.1` (2026-10-20)
-- **最近提交**: 2026-10-20
-- **Release 含资产**: 8 个
+- **最新版本**: `v3.96.0` (2026-11-03)
+- **最近提交**: 2026-11-03
+- **Release 含资产**: 1 个
 
 ## 流行度
 
@@ -42,41 +42,34 @@ x install oci-cli
 
 ## 累计统计
 
-- **发布数**: 401 · **已合并 PR**: 460 · **开放 PR**: 25 · **已关闭 issue**: 358 · **开放 issue**: 174 · **提交数**: 909
+- **发布数**: 402 · **已合并 PR**: 461 · **开放 PR**: 25 · **已关闭 issue**: 358 · **开放 issue**: 174 · **提交数**: 911
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 3 | 1 | 0 | 4 | 2 |
-| last60d | 2026-09-04 | 7 | 7 | 1 | 1 | 5 | 6 |
-| 90d | 2026-08-05 | 11 | 11 | 1 | 1 | 7 | 11 |
-| last180d | 2026-05-07 | 24 | 24 | 4 | 1 | 21 | 25 |
-| 360d | 2025-11-08 | 46 | 56 | 11 | 16 | 35 | 55 |
-| last720d | 2024-11-13 | 92 | 106 | 19 | 40 | 69 | 212 |
+| 30d | 2026-10-05 | 4 | 4 | 1 | 0 | 4 | 3 |
+| last60d | 2026-09-05 | 8 | 8 | 1 | 1 | 5 | 7 |
+| 90d | 2026-08-06 | 12 | 12 | 1 | 1 | 7 | 12 |
+| last180d | 2026-05-08 | 25 | 25 | 4 | 1 | 21 | 26 |
+| 360d | 2025-11-09 | 47 | 57 | 11 | 16 | 35 | 56 |
+| last720d | 2024-11-14 | 93 | 107 | 19 | 40 | 69 | 214 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [oci-cli-3.95.1-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Oracle-Linux-10-Offline.zip) | 103.1 MiB | `other` |
-| [oci-cli-3.95.1-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Oracle-Linux-8-Offline.zip) | 113.3 MiB | `other` |
-| [oci-cli-3.95.1-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Oracle-Linux-9-Offline.zip) | 103.1 MiB | `other` |
-| [oci-cli-3.95.1-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Ubuntu-20.04-Offline.zip) | 94.8 MiB | `other` |
-| [oci-cli-3.95.1-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Ubuntu-22.04-Offline.zip) | 94.8 MiB | `other` |
-| [oci-cli-3.95.1-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Windows-Server-2016-Offline.zip) | 76.2 MiB | `native/win/x64` |
-| [oci-cli-3.95.1-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1-Windows-Server-2019-Offline.zip) | 76.2 MiB | `native/win/x64` |
-| [oci-cli-3.95.1.zip](https://github.com/oracle/oci-cli/releases/download/v3.95.1/oci-cli-3.95.1.zip) | 181.9 MiB | `other` |
+| [oci-cli-3.96.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0.zip) | 182.0 MiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/oci-cli) 上共有 **39** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/oci-cli) 上共有 **39** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `3.95.1` | ✅ latest |
+| Homebrew | `3.95.1` | ⚠️ outdated |
 | Fedora rawhide | `3.92.1` | ⚠️ outdated |
-| Nix unstable | `3.95.1` | ✅ latest |
+| Nix unstable | `3.95.1` | ⚠️ outdated |
 | Alpine edge | `3.90.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.83.0` | ⚠️ outdated |
 
@@ -89,4 +82,4 @@ oci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:34:23Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:00:56Z._
