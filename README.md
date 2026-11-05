@@ -34,11 +34,11 @@ Total: **742,781** lines of code across **2799** files in the top 5 languages.
 
 - **Latest**: `v3.96.0` (2026-11-03)
 - **Last commit**: 2026-11-03
-- **Assets in release**: 1
+- **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 681 · **Forks**: 235 · **Open issues**: 532 · **Contributors**: 1,495
+- **Stars**: 683 · **Forks**: 235 · **Open issues**: 532 · **Contributors**: 1,494
 
 ## Totals (cumulative)
 
@@ -48,26 +48,34 @@ Total: **742,781** lines of code across **2799** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 4 | 1 | 0 | 4 | 3 |
-| last60d | 2026-09-05 | 8 | 8 | 1 | 1 | 5 | 7 |
-| 90d | 2026-08-06 | 12 | 12 | 1 | 1 | 7 | 12 |
-| last180d | 2026-05-08 | 25 | 25 | 4 | 1 | 21 | 26 |
-| 360d | 2025-11-09 | 47 | 57 | 11 | 16 | 35 | 56 |
-| last720d | 2024-11-14 | 93 | 107 | 19 | 40 | 69 | 214 |
+| 30d | 2026-10-06 | 4 | 3 | 1 | 0 | 4 | 3 |
+| last60d | 2026-09-06 | 8 | 8 | 1 | 1 | 5 | 7 |
+| 90d | 2026-08-07 | 12 | 12 | 1 | 1 | 6 | 12 |
+| last180d | 2026-05-09 | 25 | 25 | 4 | 1 | 21 | 26 |
+| 360d | 2025-11-10 | 47 | 57 | 11 | 16 | 35 | 56 |
+| last720d | 2024-11-15 | 93 | 107 | 19 | 40 | 69 | 214 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
+| [oci-cli-3.96.0-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Oracle-Linux-10-Offline.zip) | 103.4 MiB | `other` |
+| [oci-cli-3.96.0-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Oracle-Linux-8-Offline.zip) | 113.6 MiB | `other` |
+| [oci-cli-3.96.0-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Oracle-Linux-9-Offline.zip) | 103.4 MiB | `other` |
+| [oci-cli-3.96.0-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Ubuntu-20.04-Offline.zip) | 95.1 MiB | `other` |
+| [oci-cli-3.96.0-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Ubuntu-22.04-Offline.zip) | 95.1 MiB | `other` |
+| [oci-cli-3.96.0-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Windows-Server-2016-Offline.zip) | 76.5 MiB | `native/win/x64` |
+| [oci-cli-3.96.0-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Windows-Server-2019-Offline.zip) | 76.5 MiB | `native/win/x64` |
+| [oci-cli-3.96.0-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Windows-Server-Installer.msi) | 38.3 MiB | `native/win/x64` |
 | [oci-cli-3.96.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0.zip) | 182.0 MiB | `other` |
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **2** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **4** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.95.1` | ⚠️ outdated |
+| Homebrew | `3.96.0` | ✅ latest |
 | Fedora rawhide | `3.92.1` | ⚠️ outdated |
 | Nix unstable | `3.95.1` | ⚠️ outdated |
 | Alpine edge | `3.90.0` | ⚠️ outdated |
@@ -82,4 +90,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:00:55Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:25:44Z._
