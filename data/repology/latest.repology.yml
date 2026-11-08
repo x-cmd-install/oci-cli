@@ -1,3 +1,16 @@
+- repo: nix_stable_25_05
+  srcname: oci-cli
+  visiblename: oci-cli
+  version: 3.55.0
+  origversion: null
+  status: outdated
+  summary: Command Line Interface for Oracle Cloud Infrastructure
+  maintainers:
+    - ilian@tuta.io
+    - frandres00@gmail.com
+  licenses:
+    - Apache-2.0
+    - UPL-1.0
 - repo: alpine_3_19
   subrepo: community
   srcname: oci-cli
@@ -37,20 +50,6 @@
     - dunk@denkimushi.com
   licenses:
     - UPL-1.0 OR Apache-2.0
-- repo: fedora_44
-  subrepo: release
-  srcname: oci-cli
-  binnames:
-    - oci-cli
-  visiblename: oci-cli
-  version: 3.73.2
-  origversion: 3.73.2-3.fc44
-  status: outdated
-  summary: Command Line Interface for Oracle Cloud Infrastructure
-  licenses:
-    - UPL-1.0
-  categories:
-    - Unspecified
 - repo: alpine_3_20
   subrepo: community
   srcname: oci-cli
@@ -214,20 +213,6 @@
   status: outdated
   summary: 'Oracle Cloud Infrastructure command-line interface (installed command: oci).'
 - repo: fedora_39
-  subrepo: updates
-  srcname: oci-cli
-  binnames:
-    - oci-cli
-  visiblename: oci-cli
-  version: 3.39.1
-  origversion: 3.39.1-1.fc39
-  status: outdated
-  summary: Command Line Interface for Oracle Cloud Infrastructure
-  licenses:
-    - UPL-1.0
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: oci-cli
   binnames:
@@ -236,6 +221,20 @@
   version: 3.33.1
   origversion: 3.33.1-1.fc39
   status: legacy
+  summary: Command Line Interface for Oracle Cloud Infrastructure
+  licenses:
+    - UPL-1.0
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: oci-cli
+  binnames:
+    - oci-cli
+  visiblename: oci-cli
+  version: 3.39.1
+  origversion: 3.39.1-1.fc39
+  status: outdated
   summary: Command Line Interface for Oracle Cloud Infrastructure
   licenses:
     - UPL-1.0
@@ -312,20 +311,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: oci-cli
-  binnames:
-    - oci-cli
-  visiblename: oci-cli
-  version: 3.70.1
-  origversion: 3.70.1-1.fc43
-  status: outdated
-  summary: Command Line Interface for Oracle Cloud Infrastructure
-  licenses:
-    - UPL-1.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: oci-cli
   binnames:
@@ -339,15 +324,43 @@
     - UPL-1.0
   categories:
     - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: oci-cli
+  binnames:
+    - oci-cli
+  visiblename: oci-cli
+  version: 3.70.1
+  origversion: 3.70.1-1.fc43
+  status: outdated
+  summary: Command Line Interface for Oracle Cloud Infrastructure
+  licenses:
+    - UPL-1.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: oci-cli
+  binnames:
+    - oci-cli
+  visiblename: oci-cli
+  version: 3.73.2
+  origversion: 3.73.2-3.fc44
+  status: outdated
+  summary: Command Line Interface for Oracle Cloud Infrastructure
+  licenses:
+    - UPL-1.0
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: oci-cli
   binnames:
     - oci-cli
   visiblename: oci-cli
-  version: 3.92.1
-  origversion: 3.92.1-2.fc46
-  status: outdated
+  version: 3.96.0
+  origversion: 3.96.0-1.fc46
+  status: newest
   summary: Command Line Interface for Oracle Cloud Infrastructure
   licenses:
     - UPL-1.0
@@ -403,19 +416,6 @@
   summary: Command Line Interface for Oracle Cloud Infrastructure
   maintainers:
     - ilian@tuta.io
-  licenses:
-    - Apache-2.0
-    - UPL-1.0
-- repo: nix_stable_25_05
-  srcname: oci-cli
-  visiblename: oci-cli
-  version: 3.55.0
-  origversion: null
-  status: outdated
-  summary: Command Line Interface for Oracle Cloud Infrastructure
-  maintainers:
-    - ilian@tuta.io
-    - frandres00@gmail.com
   licenses:
     - Apache-2.0
     - UPL-1.0
