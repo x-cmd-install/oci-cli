@@ -14,13 +14,13 @@ x install oci-cli
 
 ## 代码洞察
 
-合计: **742,781** 行代码（覆盖前 5 种语言、共 **2799** 个文件）。
+合计: **742,905** 行代码（覆盖前 5 种语言、共 **2799** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 645,487 | 23,650 | 117,587 | 2615 |
+| Python | 645,585 | 23,650 | 117,619 | 2615 |
 | Yaml | 77,682 | 0 | 0 | 35 |
-| ReStructuredText | 13,520 | 0 | 6,844 | 5 |
+| ReStructuredText | 13,546 | 0 | 6,859 | 5 |
 | Sh | 4,330 | 2,393 | 1,354 | 87 |
 | Json | 1,224 | 0 | 10 | 57 |
 
@@ -32,51 +32,52 @@ x install oci-cli
 
 ## 发布
 
-- **最新版本**: `v3.96.0` (2026-11-03)
-- **最近提交**: 2026-11-03
-- **Release 含资产**: 9 个
+- **最新版本**: `v3.96.2` (2026-11-10)
+- **最近提交**: 2026-11-10
+- **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 686 · **Fork**: 235 · **开放 issue**: 532 · **贡献者**: 1,490
+- **Star**: 687 · **Fork**: 236 · **开放 issue**: 533 · **贡献者**: 1,490
 
 ## 累计统计
 
-- **发布数**: 402 · **已合并 PR**: 461 · **开放 PR**: 25 · **已关闭 issue**: 358 · **开放 issue**: 174 · **提交数**: 911
+- **发布数**: 403 · **已合并 PR**: 463 · **开放 PR**: 26 · **已关闭 issue**: 358 · **开放 issue**: 175 · **提交数**: 915
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 3 | 1 | 0 | 4 | 2 |
-| last60d | 2026-09-11 | 7 | 7 | 1 | 1 | 5 | 6 |
-| 90d | 2026-08-12 | 11 | 11 | 1 | 1 | 5 | 11 |
-| last180d | 2026-05-14 | 24 | 24 | 3 | 1 | 21 | 25 |
-| 360d | 2025-11-15 | 46 | 56 | 10 | 16 | 35 | 55 |
-| last720d | 2024-11-20 | 92 | 106 | 19 | 40 | 69 | 212 |
+| 30d | 2026-10-12 | 4 | 5 | 2 | 0 | 5 | 4 |
+| last60d | 2026-09-12 | 8 | 9 | 2 | 0 | 6 | 8 |
+| 90d | 2026-08-13 | 12 | 13 | 2 | 1 | 6 | 13 |
+| last180d | 2026-05-15 | 25 | 26 | 4 | 1 | 22 | 27 |
+| 360d | 2025-11-16 | 47 | 58 | 11 | 16 | 36 | 57 |
+| last720d | 2024-11-21 | 93 | 108 | 20 | 40 | 70 | 216 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [oci-cli-3.96.0-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Oracle-Linux-10-Offline.zip) | 103.4 MiB | `other` |
-| [oci-cli-3.96.0-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Oracle-Linux-8-Offline.zip) | 113.6 MiB | `other` |
-| [oci-cli-3.96.0-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Oracle-Linux-9-Offline.zip) | 103.4 MiB | `other` |
-| [oci-cli-3.96.0-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Ubuntu-20.04-Offline.zip) | 95.1 MiB | `other` |
-| [oci-cli-3.96.0-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Ubuntu-22.04-Offline.zip) | 95.1 MiB | `other` |
-| [oci-cli-3.96.0-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Windows-Server-2016-Offline.zip) | 76.5 MiB | `native/win/x64` |
-| [oci-cli-3.96.0-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Windows-Server-2019-Offline.zip) | 76.5 MiB | `native/win/x64` |
-| [oci-cli-3.96.0-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0-Windows-Server-Installer.msi) | 38.3 MiB | `native/win/x64` |
-| [oci-cli-3.96.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.0/oci-cli-3.96.0.zip) | 182.0 MiB | `other` |
+| [oci-cli-3.96.2-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Oracle-Linux-10-Offline.zip) | 103.4 MiB | `other` |
+| [oci-cli-3.96.2-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Oracle-Linux-8-Offline.zip) | 113.6 MiB | `other` |
+| [oci-cli-3.96.2-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Oracle-Linux-9-Offline.zip) | 103.4 MiB | `other` |
+| [oci-cli-3.96.2-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Ubuntu-20.04-Offline.zip) | 95.1 MiB | `other` |
+| [oci-cli-3.96.2-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Ubuntu-22.04-Offline.zip) | 95.1 MiB | `other` |
+| [oci-cli-3.96.2-Ubuntu-26.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Ubuntu-26.04-Offline.zip) | 95.1 MiB | `other` |
+| [oci-cli-3.96.2-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Windows-Server-2016-Offline.zip) | 76.5 MiB | `native/win/x64` |
+| [oci-cli-3.96.2-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Windows-Server-2019-Offline.zip) | 76.5 MiB | `native/win/x64` |
+| [oci-cli-3.96.2-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Windows-Server-Installer.msi) | 38.3 MiB | `native/win/x64` |
+| [oci-cli-3.96.2.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2.zip) | 182.0 MiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/oci-cli) 上共有 **39** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/oci-cli) 上共有 **39** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `3.96.0` | ✅ latest |
-| Fedora rawhide | `3.96.0` | ✅ latest |
+| Homebrew | `3.96.0` | ⚠️ outdated |
+| Fedora rawhide | `3.96.0` | ⚠️ outdated |
 | Nix unstable | `3.95.1` | ⚠️ outdated |
 | Alpine edge | `3.90.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.83.0` | ⚠️ outdated |
@@ -90,4 +91,4 @@ oci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:09:01Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:18:00Z._
