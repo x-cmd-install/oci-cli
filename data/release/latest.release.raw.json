@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 108441625,
       "digest": "sha256:3326da39793a916798bea74bcb6384c0428c04c2b370bafb8cd008e868e8020f",
-      "download_count": 0,
+      "download_count": 5,
       "created_at": "2026-11-11T06:51:04Z",
       "updated_at": "2026-11-11T06:51:09Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Oracle-Linux-10-Offline.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 119110661,
       "digest": "sha256:d6c15ee8cad0ebfab2e4a1b8032e50eb6386e4a64f65ec2d5fb25d3c754dca07",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2026-11-11T06:51:17Z",
       "updated_at": "2026-11-11T06:51:22Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Oracle-Linux-8-Offline.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 108441625,
       "digest": "sha256:ca37195dd8c4409fd03b42d1997e64acde62041706a19a7d848614824f51db66",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-11-11T06:50:50Z",
       "updated_at": "2026-11-11T06:50:54Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Oracle-Linux-9-Offline.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 99720706,
       "digest": "sha256:7809e73bcb4611bf10602864628d845cfca323aa7abe2da7b9b9612cac0ca8db",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-11-11T06:51:12Z",
       "updated_at": "2026-11-11T06:51:16Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Ubuntu-20.04-Offline.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 99719413,
       "digest": "sha256:d0bdf88b4053d1e88307212ce72b625f4e4679a3bf7d68ddd45b33a7233aa4a2",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2026-11-11T06:51:23Z",
       "updated_at": "2026-11-11T06:51:30Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Ubuntu-22.04-Offline.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 99719413,
       "digest": "sha256:ab3b1dde531b895e1a7a604e6616ca2fa46a2a77a6e3a062c794218856efaf2c",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-11-11T06:50:55Z",
       "updated_at": "2026-11-11T06:50:59Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Ubuntu-26.04-Offline.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 80182296,
       "digest": "sha256:ad8643e9b591a510a82776c664c26636d0a028e4eadfb9abdc97ca82b8c0fc51",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2026-11-11T06:50:47Z",
       "updated_at": "2026-11-11T06:50:50Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Windows-Server-2016-Offline.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 80182296,
       "digest": "sha256:d8bc0f8ab4d0b1cc385aa4e39f0891b782f9b53075488b135385148e70c83ef6",
-      "download_count": 0,
+      "download_count": 8,
       "created_at": "2026-11-11T06:51:00Z",
       "updated_at": "2026-11-11T06:51:03Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Windows-Server-2019-Offline.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 40173568,
       "digest": "sha256:0b4e93c33a9bb3b8631de7bc79fdee337b0b5759b96adcab75f5e6a0960e0bca",
-      "download_count": 4,
+      "download_count": 310,
       "created_at": "2026-11-11T06:51:09Z",
       "updated_at": "2026-11-11T06:51:11Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2-Windows-Server-Installer.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 190835993,
       "digest": "sha256:a4745b84a3d9dd526ed769d9df1138e42eea6826e8bd91594de174749ba49354",
-      "download_count": 24,
+      "download_count": 46,
       "created_at": "2026-11-10T20:18:57Z",
       "updated_at": "2026-11-10T20:19:04Z",
       "browser_download_url": "https://github.com/oracle/oci-cli/releases/download/v3.96.2/oci-cli-3.96.2.zip"
