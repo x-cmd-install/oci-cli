@@ -42,18 +42,18 @@ Total: **742,905** lines of code across **2799** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 403 · **Merged PRs**: 463 · **Open PRs**: 26 · **Closed issues**: 358 · **Open issues**: 175 · **Commits**: 915
+- **Releases**: 403 · **Merged PRs**: 463 · **Open PRs**: 26 · **Closed issues**: 359 · **Open issues**: 174 · **Commits**: 915
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 4 | 5 | 2 | 0 | 5 | 4 |
-| last60d | 2026-09-12 | 8 | 9 | 2 | 0 | 6 | 8 |
-| 90d | 2026-08-13 | 12 | 13 | 2 | 1 | 6 | 13 |
-| last180d | 2026-05-15 | 25 | 26 | 4 | 1 | 22 | 27 |
-| 360d | 2025-11-16 | 47 | 58 | 11 | 16 | 36 | 57 |
-| last720d | 2024-11-21 | 93 | 108 | 20 | 40 | 70 | 216 |
+| 30d | 2026-10-13 | 4 | 4 | 2 | 0 | 5 | 4 |
+| last60d | 2026-09-13 | 8 | 9 | 2 | 0 | 6 | 8 |
+| 90d | 2026-08-14 | 12 | 13 | 2 | 1 | 6 | 13 |
+| last180d | 2026-05-16 | 25 | 26 | 4 | 2 | 21 | 27 |
+| 360d | 2025-11-17 | 47 | 58 | 11 | 17 | 35 | 57 |
+| last720d | 2024-11-22 | 93 | 108 | 20 | 41 | 69 | 216 |
 
 ## Release assets
 
@@ -72,11 +72,11 @@ Total: **742,905** lines of code across **2799** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **2** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **4** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.96.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `3.96.0` | ⚠️ outdated |
 | Nix unstable | `3.95.1` | ⚠️ outdated |
 | Alpine edge | `3.90.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:17:59Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:18:35Z._
