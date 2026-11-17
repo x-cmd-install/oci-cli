@@ -38,7 +38,7 @@ Total: **742,905** lines of code across **2799** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 689 · **Forks**: 236 · **Open issues**: 533 · **Contributors**: 1,491
+- **Stars**: 689 · **Forks**: 236 · **Open issues**: 533 · **Contributors**: 1,494
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **742,905** lines of code across **2799** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 4 | 2 | 0 | 3 | 3 |
-| last60d | 2026-09-17 | 7 | 8 | 2 | 0 | 5 | 7 |
-| 90d | 2026-08-18 | 12 | 12 | 2 | 1 | 6 | 12 |
-| last180d | 2026-05-20 | 24 | 25 | 4 | 2 | 20 | 25 |
-| 360d | 2025-11-21 | 46 | 57 | 11 | 17 | 34 | 57 |
-| last720d | 2024-11-26 | 93 | 108 | 20 | 41 | 68 | 216 |
+| 30d | 2026-10-18 | 3 | 4 | 2 | 0 | 3 | 3 |
+| last60d | 2026-09-18 | 7 | 8 | 2 | 0 | 5 | 7 |
+| 90d | 2026-08-19 | 11 | 12 | 2 | 1 | 6 | 12 |
+| last180d | 2026-05-21 | 24 | 25 | 4 | 2 | 20 | 25 |
+| 360d | 2025-11-22 | 46 | 57 | 11 | 17 | 34 | 57 |
+| last720d | 2024-11-27 | 93 | 108 | 20 | 41 | 68 | 216 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Total: **742,905** lines of code across **2799** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/oci-cli). **5** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **40** distros on [repology.org](https://repology.org/project/oci-cli). **5** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:42:52Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:29:21Z._
