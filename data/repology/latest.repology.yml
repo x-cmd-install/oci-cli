@@ -1,133 +1,3 @@
-- repo: alpine_3_19
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli
-  visiblename: oci-cli
-  version: 3.36.2
-  origversion: 3.36.2-r1
-  status: outdated
-  summary: Oracle Cloud Infrastructure CLI
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli-pyc
-  visiblename: oci-cli-pyc
-  version: 3.36.2
-  origversion: 3.36.2-r1
-  status: outdated
-  summary: Precompiled Python bytecode for oci-cli
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli
-  visiblename: oci-cli
-  version: 3.40.3
-  origversion: 3.40.3-r0
-  status: outdated
-  summary: Oracle Cloud Infrastructure CLI
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli-pyc
-  visiblename: oci-cli-pyc
-  version: 3.40.3
-  origversion: 3.40.3-r0
-  status: outdated
-  summary: Precompiled Python bytecode for oci-cli
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli
-  visiblename: oci-cli
-  version: 3.50.2
-  origversion: 3.50.2-r0
-  status: outdated
-  summary: Oracle Cloud Infrastructure CLI
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli-pyc
-  visiblename: oci-cli-pyc
-  version: 3.50.2
-  origversion: 3.50.2-r0
-  status: outdated
-  summary: Precompiled Python bytecode for oci-cli
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli
-  visiblename: oci-cli
-  version: 3.56.0
-  origversion: 3.56.0-r0
-  status: outdated
-  summary: Oracle Cloud Infrastructure CLI
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli-pyc
-  visiblename: oci-cli-pyc
-  version: 3.56.0
-  origversion: 3.56.0-r0
-  status: outdated
-  summary: Precompiled Python bytecode for oci-cli
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli
-  visiblename: oci-cli
-  version: 3.71.0
-  origversion: 3.71.0-r0
-  status: outdated
-  summary: Oracle Cloud Infrastructure CLI
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: oci-cli
-  binname: oci-cli-pyc
-  visiblename: oci-cli-pyc
-  version: 3.71.0
-  origversion: 3.71.0-r0
-  status: outdated
-  summary: Precompiled Python bytecode for oci-cli
-  maintainers:
-    - dunk@denkimushi.com
-  licenses:
-    - UPL-1.0 OR Apache-2.0
 - repo: alpine_3_24
   subrepo: community
   srcname: oci-cli
@@ -137,6 +7,149 @@
   origversion: 3.77.0-r0
   status: outdated
   summary: Oracle Cloud Infrastructure CLI
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: nix_stable_25_05
+  srcname: oci-cli
+  visiblename: oci-cli
+  version: 3.55.0
+  origversion: null
+  status: outdated
+  summary: Command Line Interface for Oracle Cloud Infrastructure
+  maintainers:
+    - ilian@tuta.io
+    - frandres00@gmail.com
+  licenses:
+    - Apache-2.0
+    - UPL-1.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli
+  visiblename: oci-cli
+  version: 3.36.2
+  origversion: 3.36.2-r1
+  status: outdated
+  summary: Oracle Cloud Infrastructure CLI
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli-pyc
+  visiblename: oci-cli-pyc
+  version: 3.36.2
+  origversion: 3.36.2-r1
+  status: outdated
+  summary: Precompiled Python bytecode for oci-cli
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli
+  visiblename: oci-cli
+  version: 3.40.3
+  origversion: 3.40.3-r0
+  status: outdated
+  summary: Oracle Cloud Infrastructure CLI
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli-pyc
+  visiblename: oci-cli-pyc
+  version: 3.40.3
+  origversion: 3.40.3-r0
+  status: outdated
+  summary: Precompiled Python bytecode for oci-cli
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli
+  visiblename: oci-cli
+  version: 3.50.2
+  origversion: 3.50.2-r0
+  status: outdated
+  summary: Oracle Cloud Infrastructure CLI
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli-pyc
+  visiblename: oci-cli-pyc
+  version: 3.50.2
+  origversion: 3.50.2-r0
+  status: outdated
+  summary: Precompiled Python bytecode for oci-cli
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli
+  visiblename: oci-cli
+  version: 3.56.0
+  origversion: 3.56.0-r0
+  status: outdated
+  summary: Oracle Cloud Infrastructure CLI
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli-pyc
+  visiblename: oci-cli-pyc
+  version: 3.56.0
+  origversion: 3.56.0-r0
+  status: outdated
+  summary: Precompiled Python bytecode for oci-cli
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli
+  visiblename: oci-cli
+  version: 3.71.0
+  origversion: 3.71.0-r0
+  status: outdated
+  summary: Oracle Cloud Infrastructure CLI
+  maintainers:
+    - dunk@denkimushi.com
+  licenses:
+    - UPL-1.0 OR Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: oci-cli
+  binname: oci-cli-pyc
+  visiblename: oci-cli-pyc
+  version: 3.71.0
+  origversion: 3.71.0-r0
+  status: outdated
+  summary: Precompiled Python bytecode for oci-cli
   maintainers:
     - dunk@denkimushi.com
   licenses:
@@ -186,7 +199,7 @@
   visiblename: oci-cli
   version: 3.96.2
   origversion: 3.96.2-1
-  status: newest
+  status: outdated
   summary: Command line interface for Oracle Cloud Infrastructure
   maintainers:
     - meanjollies@aur
@@ -197,7 +210,7 @@
   visiblename: Oracle Cloud Infrastructure CLI (oci-cli)
   version: 3.96.2
   origversion: null
-  status: newest
+  status: outdated
   summary: 'Oracle Cloud Infrastructure command-line interface (installed command: oci).'
 - repo: fedora_39
   subrepo: release
@@ -228,20 +241,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: oci-cli
-  binnames:
-    - oci-cli
-  visiblename: oci-cli
-  version: 3.49.1
-  origversion: 3.49.1-2.fc40
-  status: outdated
-  summary: Command Line Interface for Oracle Cloud Infrastructure
-  licenses:
-    - UPL-1.0
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: oci-cli
   binnames:
@@ -250,6 +249,20 @@
   version: 3.37.10
   origversion: 3.37.10-1.fc40
   status: legacy
+  summary: Command Line Interface for Oracle Cloud Infrastructure
+  licenses:
+    - UPL-1.0
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: oci-cli
+  binnames:
+    - oci-cli
+  visiblename: oci-cli
+  version: 3.49.1
+  origversion: 3.49.1-2.fc40
+  status: outdated
   summary: Command Line Interface for Oracle Cloud Infrastructure
   licenses:
     - UPL-1.0
@@ -370,7 +383,7 @@
 - repo: homebrew
   srcname: oci-cli
   visiblename: oci-cli
-  version: 3.96.2
+  version: 3.96.3
   origversion: null
   status: newest
   summary: Oracle Cloud Infrastructure CLI
@@ -417,19 +430,6 @@
   summary: Command Line Interface for Oracle Cloud Infrastructure
   maintainers:
     - ilian@tuta.io
-  licenses:
-    - Apache-2.0
-    - UPL-1.0
-- repo: nix_stable_25_05
-  srcname: oci-cli
-  visiblename: oci-cli
-  version: 3.55.0
-  origversion: null
-  status: outdated
-  summary: Command Line Interface for Oracle Cloud Infrastructure
-  maintainers:
-    - ilian@tuta.io
-    - frandres00@gmail.com
   licenses:
     - Apache-2.0
     - UPL-1.0
@@ -487,7 +487,7 @@
   subrepo: main
   binname: oci-cli
   visiblename: oci-cli
-  version: 3.96.2
+  version: 3.96.3
   origversion: null
   status: newest
   licenses:
@@ -496,7 +496,7 @@
   srcname: oci-cli
   binname: oci-cli
   visiblename: oci-cli
-  version: 3.96.2
+  version: 3.96.3
   origversion: null
   status: newest
   summary: Command line interface for Oracle Cloud Infrastructure
