@@ -32,46 +32,43 @@ Total: **744,944** lines of code across **2802** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.97.0` (2026-11-24)
+- **Latest**: `v3.96.3` (2026-11-17)
 - **Last commit**: 2026-11-24
-- **Assets in release**: 1
+- **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 707 · **Forks**: 237 · **Open issues**: 533 · **Contributors**: 1,507
+- **Stars**: 709 · **Forks**: 237 · **Open issues**: 534 · **Contributors**: 1,507
 
 ## Totals (cumulative)
 
-- **Releases**: 405 · **Merged PRs**: 465 · **Open PRs**: 26 · **Closed issues**: 359 · **Open issues**: 174 · **Commits**: 919
+- **Releases**: 404 · **Merged PRs**: 465 · **Open PRs**: 26 · **Closed issues**: 359 · **Open issues**: 175 · **Commits**: 919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 5 | 3 | 0 | 2 | 5 |
-| last60d | 2026-09-25 | 8 | 9 | 3 | 0 | 5 | 8 |
-| 90d | 2026-08-26 | 12 | 13 | 3 | 1 | 6 | 13 |
-| last180d | 2026-05-28 | 25 | 26 | 5 | 2 | 20 | 26 |
-| 360d | 2025-11-29 | 48 | 59 | 12 | 16 | 34 | 59 |
-| last720d | 2024-12-04 | 95 | 110 | 21 | 41 | 68 | 220 |
+| 30d | 2026-10-26 | 3 | 5 | 2 | 0 | 3 | 5 |
+| last60d | 2026-09-26 | 7 | 9 | 2 | 0 | 6 | 8 |
+| 90d | 2026-08-27 | 11 | 13 | 2 | 1 | 7 | 13 |
+| last180d | 2026-05-29 | 24 | 26 | 4 | 2 | 21 | 26 |
+| 360d | 2025-11-30 | 47 | 59 | 11 | 16 | 35 | 59 |
+| last720d | 2024-12-05 | 94 | 110 | 20 | 41 | 69 | 220 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oci-cli-3.97.0.zip](https://github.com/oracle/oci-cli/releases/download/v3.97.0/oci-cli-3.97.0.zip) | 128.8 MiB | `other` |
-
-## Distribution status
-
-Reported by **40** distros on [repology.org](https://repology.org/project/oci-cli). **5** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.96.3` | ✅ latest |
-| Fedora rawhide | `3.96.0` | ⚠️ outdated |
-| Nix unstable | `3.96.0` | ⚠️ outdated |
-| Alpine edge | `3.90.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.83.0` | ⚠️ outdated |
+| [oci-cli-3.96.3-Oracle-Linux-10-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Oracle-Linux-10-Offline.zip) | 84.7 MiB | `other` |
+| [oci-cli-3.96.3-Oracle-Linux-8-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Oracle-Linux-8-Offline.zip) | 94.9 MiB | `other` |
+| [oci-cli-3.96.3-Oracle-Linux-9-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Oracle-Linux-9-Offline.zip) | 84.7 MiB | `other` |
+| [oci-cli-3.96.3-Ubuntu-20.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Ubuntu-20.04-Offline.zip) | 76.4 MiB | `other` |
+| [oci-cli-3.96.3-Ubuntu-22.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Ubuntu-22.04-Offline.zip) | 76.4 MiB | `other` |
+| [oci-cli-3.96.3-Ubuntu-26.04-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Ubuntu-26.04-Offline.zip) | 76.4 MiB | `other` |
+| [oci-cli-3.96.3-Windows-Server-2016-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Windows-Server-2016-Offline.zip) | 57.7 MiB | `native/win/x64` |
+| [oci-cli-3.96.3-Windows-Server-2019-Offline.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Windows-Server-2019-Offline.zip) | 57.7 MiB | `native/win/x64` |
+| [oci-cli-3.96.3-Windows-Server-Installer.msi](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3-Windows-Server-Installer.msi) | 38.3 MiB | `native/win/x64` |
+| [oci-cli-3.96.3.zip](https://github.com/oracle/oci-cli/releases/download/v3.96.3/oci-cli-3.96.3.zip) | 128.5 MiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +79,4 @@ Install metadata for oci-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:19:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:08:45Z._
